@@ -10,4 +10,9 @@ iniciamos el proyecto npm init --yes
 #14:08 
 instalamos express y lo configuramos hasta obtener el "Cannot get /"
 
-#16:40 empezamos la rest api
+#16:40
+Dividimos el index en las secciones //Settings //Middlewares //Routes y //Server
+Configuramos el puerto para usar el que nos dan en el servidor o el nuestro por defecto
+20:00 Instalamos nodemon
+
+#23:45 Middlewares
