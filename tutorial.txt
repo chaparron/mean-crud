@@ -20,3 +20,7 @@ instalamos y usamos morgan para ver por consola las peticiones
 26:20 metodo json desde express para que el servidor entienda los datos json
 
 #27:54 Mongoose y database
+instalamos mongoose e iniciamos mongo
+configuramos el database con la URI como variable, lo exportamos y lo importamos en el index
+
+#32:48 rutas
