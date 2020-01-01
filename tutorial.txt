@@ -7,4 +7,7 @@ https://www.youtube.com/watch?v=khCIunNAEHI
 dentro controllers, models, routes, database, index
 iniciamos el proyecto npm init --yes 
 
-#14:08
+#14:08 
+instalamos express y lo configuramos hasta obtener el "Cannot get /"
+
+#16:40 empezamos la rest api
