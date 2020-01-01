@@ -1,0 +1,10 @@
+MEAN - Fazt code
+https://www.youtube.com/watch?v=khCIunNAEHI
+
+# 0:00 Introducción
+
+# 10:25 montamos la estructura del servidor e iniciamos el proyecto
+dentro controllers, models, routes, database, index
+iniciamos el proyecto npm init --yes 
+
+#14:08
