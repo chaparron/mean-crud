@@ -31,4 +31,12 @@ configuramos la ruta para que funcione en api/employees
 #37:30 models
 Creamos el módulo con el Schema de los empleados y lo exportamos
 
-#41:25
+#41:25 controladores
+creamos las funciones en los controladores y las usamos en las rutas ayudandonos de postman
+
+video 1 finished
+index el archivo que arranca, database, rutas, modelo de datos 
+y funciones que hemos definido de guardar, eliminar que usaran las rutas
+
+
+https://www.youtube.com/watch?v=ccBtSAMFjto
