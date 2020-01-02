@@ -28,4 +28,7 @@ He solucionado problemas de config de mongo añadiendo useNewUrlParser y useUnif
 Creamos la primera ruta con un json {"status": "works"}
 configuramos la ruta para que funcione en api/employees
 
-#37:30
+#37:30 models
+Creamos el módulo con el Schema de los empleados y lo exportamos
+
+#41:25
