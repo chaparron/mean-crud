@@ -24,3 +24,8 @@ instalamos mongoose e iniciamos mongo
 configuramos el database con la URI como variable, lo exportamos y lo importamos en el index
 
 #32:48 rutas
+He solucionado problemas de config de mongo añadiendo useNewUrlParser y useUnifiedTipology
+Creamos la primera ruta con un json {"status": "works"}
+configuramos la ruta para que funcione en api/employees
+
+#37:30

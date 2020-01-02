@@ -14,6 +14,8 @@ app.use(express.json());
 
 
 //Routes
+app.use('/api/employees',require('./routes/employee.routes'));
+
 
 //Server
 app.listen(app.get('port'), ()=>{
