@@ -42,7 +42,9 @@ y funciones que hemos definido de guardar, eliminar que usaran las rutas
 https://www.youtube.com/watch?v=ccBtSAMFjto
 #instalamos angular/cli y creamos el proyecto de angular en frontend
 
-#5:55
+#5:55 creamos las carpetas services, models y components con sus archivos
+
+#10:00
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
