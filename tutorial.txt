@@ -40,3 +40,10 @@ y funciones que hemos definido de guardar, eliminar que usaran las rutas
 
 
 https://www.youtube.com/watch?v=ccBtSAMFjto
+#instalamos angular/cli y creamos el proyecto de angular en frontend
+
+#5:55
+
+cuando estemos trabajando
+con ng serve tendremos el servidor en localhost 4200
+con mongod y npm run dev tendremos el servidor de la API
