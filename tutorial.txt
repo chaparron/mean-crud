@@ -52,6 +52,16 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #17:32 Importamos FormsModule
 
+#18:40 Trabajamos en el servicio CRUD
+
+	#21:50 Trabajamos en la clase
+
+#22:45 Seguimos con el crud en el servicio
+
+#30:06 Rellenamos el formulario
+
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
 con mongod y npm run dev tendremos el servidor de la API
+
+**si alguna vez no arranca ng serve, podemos provar ng update y npm update, lo que al final sirvio es npm install --save-dev @angular-devkit/build-angular
