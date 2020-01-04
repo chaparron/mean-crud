@@ -46,7 +46,9 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #10:00 utilizamos los cdns de materialize css, js e icons, borramos el app component e incluimos sólo nuestro componente
 
-#13:10
+#13:10 Creamos una barra de navegación en el componente principal
+
+#14:41 
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
