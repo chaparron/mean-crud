@@ -79,7 +79,9 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 --> por fin desde el frontend guardamos datos en el backend
 	hacemos que cuando se guarden los datos se borre el formulario
 
-#59:30 
+#   Creamos el toast de materialize para que salga el "empleado guardado"
+
+#54:05 
 
 
 cuando estemos trabajando
