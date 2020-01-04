@@ -50,6 +50,8 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #14:41 En nuestro componente preparamos la estructura y la "cabecera" del form
 
+#17:32 Importamos FormsModule
+
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
 con mongod y npm run dev tendremos el servidor de la API
