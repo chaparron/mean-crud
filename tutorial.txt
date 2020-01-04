@@ -60,6 +60,8 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #30:06 Rellenamos el formulario
 
+#35:40 
+
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
 con mongod y npm run dev tendremos el servidor de la API
