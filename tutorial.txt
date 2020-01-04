@@ -74,7 +74,12 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 #44:25 Creamos la función clean en el component de employees y la llamamos desde el botón 
 	Creamos la función addEmployee
 
-#49:55 
+#49:55 instalamos cors en la raiz y lo importamos y usamos en el indice del servidor
+	lo configuramos para que use de origen la ruta de angular
+--> por fin desde el frontend guardamos datos en el backend
+	hacemos que cuando se guarden los datos se borre el formulario
+
+#59:30 
 
 
 cuando estemos trabajando

@@ -19,7 +19,7 @@ export class EmployeesComponent implements OnInit {
   addEmployee(form:NgForm){
     this.employeeService.postEmployee(form.value)
       .subscribe(res=>{
-        console.log(res);
+        this.resetForm(form);
       });
   }
 
