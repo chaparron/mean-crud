@@ -71,7 +71,9 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #41:35 Creamos en el formulario los botones save y clean
 
-#44:25  
+#44:25 Creamos la función clean en el component de employees y la llamamos desde el botón 
+
+
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
