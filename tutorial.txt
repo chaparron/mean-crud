@@ -58,9 +58,13 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #22:45 Seguimos con el crud en el servicio
 
-#30:06 Rellenamos el formulario
+#30:06 Rellenamos el formulario (tenemos el error cannot read property selectedEmployee of undefined
 
-#35:40 
+#35:40 con el constructor del servicio creamos un nuevo empleado
+	en el componente de employees importamos el servicio
+	--> ahora tenemos "cannot read property name of undefined"
+
+#37:15
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
