@@ -16,6 +16,13 @@ export class EmployeesComponent implements OnInit {
   ngOnInit() {
   }
 
+  addEmployee(form:NgForm){
+    this.employeeService.postEmployee(form.value)
+      .subscribe(res=>{
+        console.log(res);
+      });
+  }
+
   resetForm(form?:NgForm){
     if(form){
       form.reset();

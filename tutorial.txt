@@ -69,10 +69,12 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 	importamos el módulo HttpClientModule en el módulo principal y lo usamos
 	reiniciamos el servicio de angular y voilá
 
-#41:35 Creamos en el formulario los botones save y clean
+#41:35 Creamos en el formulario los botones save y clean (en este commit la etiqueta de cierre  del form estaba fuera)
 
 #44:25 Creamos la función clean en el component de employees y la llamamos desde el botón 
+	Creamos la función addEmployee
 
+#49:55 
 
 
 cuando estemos trabajando
