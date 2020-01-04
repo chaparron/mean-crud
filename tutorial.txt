@@ -64,7 +64,12 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 	en el componente de employees importamos el servicio
 	--> ahora tenemos "cannot read property name of undefined"
 
-#37:15
+#37:15 en nuestro componente usamos como providers EmployeeService
+	necesitamos un constructor en nuestro modelo, para cuando en el constructor del servicio se instancia la clase
+	importamos el módulo HttpClientModule en el módulo principal y lo usamos
+	reiniciamos el servicio de angular y voilá
+
+#41:35 
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
