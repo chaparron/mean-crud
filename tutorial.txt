@@ -44,7 +44,9 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #5:55 creamos las carpetas services, models y components con sus archivos
 
-#10:00
+#10:00 utilizamos los cdns de materialize css, js e icons, borramos el app component e incluimos sólo nuestro componente
+
+#13:10
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
