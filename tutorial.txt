@@ -69,7 +69,9 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 	importamos el módulo HttpClientModule en el módulo principal y lo usamos
 	reiniciamos el servicio de angular y voilá
 
-#41:35 
+#41:35 Creamos en el formulario los botones save y clean
+
+#44:25  
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
