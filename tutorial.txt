@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #13:10 Creamos una barra de navegación en el componente principal
 
-#14:41 
+#14:41 En nuestro componente preparamos la estructura y la "cabecera" del form
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
