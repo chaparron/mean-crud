@@ -28,6 +28,10 @@ export class EmployeesComponent implements OnInit {
       });
   }
 
+  editEmployee(employee: Employee){
+    this.employeeService.selectedEmployee = employee;
+  }
+
   getEmployees(){
     this.employeeService.getEmployees()
     .subscribe(res=>{

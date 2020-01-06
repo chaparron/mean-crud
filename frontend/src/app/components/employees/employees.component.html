@@ -50,6 +50,14 @@
                         <td>{{ employee.name }}</td>
                         <td>{{ employee.position }}</td>
                         <td>{{ employee.office }}</td>
+                        <td>
+                            <a (click)="editEmployee(employee)">
+                                <i class="material-icons">edit</i>
+                            </a>
+                            <a (click)="deleteEmployee">
+                                <i class="material-icons">delete</i>
+                            </a>
+                    </td>
                     </tr>
                 </tbody>
             </table>

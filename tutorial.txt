@@ -85,7 +85,9 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #55:45 mostramos por pantalla el getEmployees
 
-#59:35
+#59:35 Creamos los iconos de editar y eliminar y iniciamos la funcion de editar
+
+#1:03:30 
 
 
 cuando estemos trabajando
