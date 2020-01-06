@@ -81,7 +81,9 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #   Creamos el toast de materialize para que salga el "empleado guardado"
 
-#54:05 
+#54:05 Creamos la función getEmployees y la logueamos por consola, hacemos que se arranque de inicio
+
+#55:45 
 
 
 cuando estemos trabajando
