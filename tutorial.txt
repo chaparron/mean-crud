@@ -89,7 +89,9 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #1:03:30 Creamos hidden id y con eso un condicional en addEmployee para editar o añadir
 
-#1:07:30 
+#1:07:30 cambiamos los parámetros del addEmployee en el servidor para que ya funcione (sin requerir id)
+
+#1:09:25 
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200
