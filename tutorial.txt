@@ -87,8 +87,9 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #59:35 Creamos los iconos de editar y eliminar y iniciamos la funcion de editar
 
-#1:03:30 
+#1:03:30 Creamos hidden id y con eso un condicional en addEmployee para editar o añadir
 
+#1:07:30 
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200

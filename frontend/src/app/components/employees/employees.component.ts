@@ -20,12 +20,19 @@ export class EmployeesComponent implements OnInit {
   }
 
   addEmployee(form:NgForm){
+    if(form.value._id){
+      this.employeeService.putEmployee(form.value)
+        .subscribe(res=>{
+          console.log(res);
+        })
+    } else {
     this.employeeService.postEmployee(form.value)
       .subscribe(res=>{
         this.resetForm(form);
         M.toast({html: "Empleado guardado satisfactoriamente"});
         this.getEmployees();
       });
+    }
   }
 
   editEmployee(employee: Employee){
@@ -45,9 +52,6 @@ export class EmployeesComponent implements OnInit {
       form.reset();
       this.employeeService.selectedEmployee = new Employee();
     }
-
   }
-
-
 
 }

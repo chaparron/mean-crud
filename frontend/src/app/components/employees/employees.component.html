@@ -4,6 +4,8 @@
             <div class="card">
                 <div class="card-content">
                     <form #employeeForm="ngForm" (ngSubmit)= "addEmployee(employeeForm)">
+                        <input type="hidden" name="_id" #_id="ngModel"
+                        [(ngModel)]="employeeService.selectedEmployee._id">
                         <div class="row">
                             <div class="input-field col s12">
                                 <input type="text" name='name'#name="ngModel" 
@@ -57,7 +59,7 @@
                             <a (click)="deleteEmployee">
                                 <i class="material-icons">delete</i>
                             </a>
-                    </td>
+                        </td>
                     </tr>
                 </tbody>
             </table>
