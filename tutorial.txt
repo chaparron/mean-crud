@@ -83,7 +83,9 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #54:05 Creamos la función getEmployees y la logueamos por consola, hacemos que se arranque de inicio
 
-#55:45 
+#55:45 mostramos por pantalla el getEmployees
+
+#59:35
 
 
 cuando estemos trabajando

@@ -24,6 +24,7 @@ export class EmployeesComponent implements OnInit {
       .subscribe(res=>{
         this.resetForm(form);
         M.toast({html: "Empleado guardado satisfactoriamente"});
+        this.getEmployees();
       });
   }
 
