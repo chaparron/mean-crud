@@ -91,7 +91,9 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #1:07:30 cambiamos los parámetros del addEmployee en el servidor para que ya funcione (sin requerir id)
 
-#1:09:25 
+#1:09:25 Creamos el toast de editado correctamente y formateamos formulario al editar
+
+#1:10:35
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200

@@ -23,7 +23,9 @@ export class EmployeesComponent implements OnInit {
     if(form.value._id){
       this.employeeService.putEmployee(form.value)
         .subscribe(res=>{
-          console.log(res);
+        this.resetForm(form);
+        M.toast({html: "Empleado guardado satisfactoriamente"});
+        this.getEmployees();
         })
     } else {
     this.employeeService.postEmployee(form.value)
