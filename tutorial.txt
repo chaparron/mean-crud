@@ -93,7 +93,10 @@ https://www.youtube.com/watch?v=ccBtSAMFjto
 
 #1:09:25 Creamos el toast de editado correctamente y formateamos formulario al editar
 
-#1:10:35
+#1:10:35 Añadimos el deleteEmployee con la pregunta de seguridad antes de eliminar
+
+CRUD ACABADO
+
 
 cuando estemos trabajando
 con ng serve tendremos el servidor en localhost 4200

@@ -41,6 +41,16 @@ export class EmployeesComponent implements OnInit {
     this.employeeService.selectedEmployee = employee;
   }
 
+  deleteEmployee(_id:string){
+    if(confirm("Estás seguro de eliminarlo?")){
+      this.employeeService.deleteEmployee(_id)
+        .subscribe(res=>{
+         this.getEmployees(); 
+         M.toast({html: "Eliminado satisfactoriamente"})
+        });
+      }
+  }
+
   getEmployees(){
     this.employeeService.getEmployees()
     .subscribe(res=>{
